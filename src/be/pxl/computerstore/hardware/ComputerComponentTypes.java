@@ -1,4 +1,4 @@
-package be.pxl.computerstore.data;
+package be.pxl.computerstore.hardware;
 
 public enum ComputerComponentTypes {
     COMPUTER_CASES("Computer Cases"),
